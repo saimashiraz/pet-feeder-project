@@ -10,6 +10,7 @@ This project is a simulation of a low-cost, programmable automated pet feeder de
 The solution was developed using the Solving Problem Process taught in the Introduction to Information Technology course at the University of Canberra.
 
 Repository Structure
+
 Step1_Analysis/ # Problem definition, assumptions, inputs/outputs 
 Step2_Data/ # Data tables and operational constraints 
 Step3_Flowchart/ # Flowchart exported from Draw.io 
