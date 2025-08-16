@@ -1,8 +1,1 @@
-Step 1: Understand and Define the Problem (Analyse)
 
-As of yet, there is no such system that both, dispenses food for the pets at scheduled times, and monitors whether the pets have eaten the food. 
-The staff currently must do it manually for all the animals and is not aware if all of them have had their meal on time, and if they have, then how much the animals have had to eat. 
-Therefore, the solution should be a low-cost, programmable automated pet feeder that should dispense the food at scheduled times and monitor whether the food has been consumed and the amount of food that has been consumed. 
-This will also inform the staff of when the dispenser needs a refill, and of any alerts or issues regarding the system.
-In this scenario, we are taking as assumption that only one pet will feed at a time, the feeding will occur only at the scheduled times, there will be a stable internet connection so that the feeder can run smoothly throughout the day, the feeder will also have internet connectivity to be able to send alerts regarding the refilling and errors to the staff, and that the portion sizes for each pet will already be set in advance.
-Some examples of the inputs will be feeding times, real time clock, food sensors, weight sensors, and pet type, whereas some examples of the output will be alerts sent, log of feeding events, and the feeding status display.
