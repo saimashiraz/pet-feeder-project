@@ -83,4 +83,3 @@ University of Canberra
 Course: Introduction to Information Technology (4478/8936)
 
 
-<img width="451" height="701" alt="image" src="https://github.com/user-attachments/assets/3f91e1cd-fdb9-4a0f-9a73-e4e4af8550f4" />
