@@ -11,13 +11,13 @@ The solution was developed using the Solving Problem Process taught in the Intro
 
 Repository Structure
 
-Step1_Analysis/ # Problem definition, assumptions, inputs/outputs 
-Step2_Data/ # Data tables and operational constraints 
-Step3_Flowchart/ # Flowchart exported from Draw.io 
-Step4_Word_Code/ # Pseudocode implementation 
-Step5_Testing/ # Test scenarios and results 
-AI Integration/ # Copilot prompts and reflection 
-README.md # Project summary and documentation
+ Step1_Analysis/ # Problem definition, assumptions, inputs/outputs 
+ Step2_Data/ # Data tables and operational constraints 
+ Step3_Flowchart/ # Flowchart exported from Draw.io 
+ Step4_Word_Code/ # Pseudocode implementation 
+ Step5_Testing/ # Test scenarios and results 
+ AI Integration/ # Copilot prompts and reflection 
+ README.md # Project summary and documentation
 
 Problem Statement
 There is currently no system that both dispenses food for pets at scheduled times and monitors consumption. Staff must manually feed animals and cannot track whether meals were eaten or how much was consumed. This project proposes a programmable feeder that automates feeding, monitors consumption, and alerts staff when issues arise.
