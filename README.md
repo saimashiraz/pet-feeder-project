@@ -20,6 +20,7 @@ AI Integration/ # Copilot prompts and reflection
 README.md # Project summary and documentation
 
 Problem Statement
+
 There is currently no system that both dispenses food for pets at scheduled times and monitors consumption. Staff must manually feed animals and cannot track whether meals were eaten or how much was consumed. This project proposes a programmable feeder that automates feeding, monitors consumption, and alerts staff when issues arise.
 
 
